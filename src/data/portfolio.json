@@ -10,7 +10,18 @@
   },
   "about": {
     "summary": "I'm a junior frontend developer with a strong foundation in modern web development. My journey in web development started during my college years, and I've been passionate about creating user-friendly interfaces ever since.",
+    "image": "/myphoto.jpg",
     "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "State University",
+        "year": "2023"
+      },
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "State University",
+        "year": "2023"
+      },
       {
         "degree": "Bachelor of Science in Computer Science",
         "school": "State University",
