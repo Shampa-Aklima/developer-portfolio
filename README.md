@@ -38,8 +38,8 @@ A modern, responsive portfolio website built with Next.js 15, Tailwind CSS, and 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
+git clone https://github.com/Ramrachai/developer-portfolio
+cd developer-portfolio
 ```
 
 2. Install dependencies
