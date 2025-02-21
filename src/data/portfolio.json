@@ -1,0 +1,76 @@
+{
+  "personalInfo": {
+    "name": "John Doe",
+    "title": "Frontend React Developer",
+    "description": "Passionate frontend developer with a keen eye for creating beautiful and responsive web applications. I specialize in React.js and modern web technologies.",
+    "location": "New York, USA",
+    "email": "john.doe@example.com",
+    "github": "https://github.com/johndoe",
+    "linkedin": "https://linkedin.com/in/johndoe"
+  },
+  "about": {
+    "summary": "I'm a junior frontend developer with a strong foundation in modern web development. My journey in web development started during my college years, and I've been passionate about creating user-friendly interfaces ever since.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "State University",
+        "year": "2023"
+      }
+    ],
+    "interests": [
+      "Web Development",
+      "UI/UX Design",
+      "Open Source",
+      "Mobile-First Design"
+    ]
+  },
+  "skills": {
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "React.js",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "tools": [
+      "Git",
+      "VS Code",
+      "npm",
+      "Webpack",
+      "Chrome DevTools"
+    ],
+    "softSkills": [
+      "Problem Solving",
+      "Team Collaboration",
+      "Communication",
+      "Time Management"
+    ]
+  },
+  "projects": [
+    {
+      "title": "E-commerce Dashboard",
+      "description": "A responsive dashboard for e-commerce analytics built with React and Tailwind CSS",
+      "technologies": ["React", "Tailwind CSS", "Chart.js"],
+      "github": "https://github.com/johndoe/ecommerce-dashboard",
+      "live": "https://ecommerce-dashboard.example.com",
+      "image": "/projects/ecommerce-dashboard.png"
+    },
+    {
+      "title": "Weather App",
+      "description": "Real-time weather application using OpenWeather API and React",
+      "technologies": ["React", "API Integration", "CSS3"],
+      "github": "https://github.com/johndoe/weather-app",
+      "live": "https://weather-app.example.com",
+      "image": "/projects/weather-app.png"
+    },
+    {
+      "title": "Task Manager",
+      "description": "A simple but elegant task management application with local storage",
+      "technologies": ["React", "LocalStorage", "Tailwind CSS"],
+      "github": "https://github.com/johndoe/task-manager",
+      "live": "https://task-manager.example.com",
+      "image": "/projects/task-manager.png"
+    }
+  ]
+} 
