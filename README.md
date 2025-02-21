@@ -1,4 +1,5 @@
 # Modern Portfolio for Junior Developers
+LIVE LINK : https://developer-portfolio-tau-inky.vercel.app/
 
 > **Note:** This project intentionally avoids advanced technologies and TypeScript to make it more accessible for junior developers. The focus is on creating a clean, professional portfolio using simple and straightforward technologies that are easier to understand and maintain.
 
