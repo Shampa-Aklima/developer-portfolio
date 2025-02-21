@@ -61,15 +61,15 @@ const About = ({ about }) => {
               whileInView={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.8, delay: 0.4 }}
               viewport={{ once: true }}
-              className="relative"
+              className="relative flex justify-center"
             >
-              <div className="relative aspect-[3/4] w-full max-w-md mx-auto overflow-hidden rounded-2xl shadow-xl">
+              <div className="relative w-64 h-80 overflow-hidden rounded-2xl shadow-xl">
                 <Image
                   src={about.image}
                   alt="Developer photo"
                   fill
                   className="object-cover"
-                  sizes="(max-width: 768px) 100vw, 50vw"
+                  sizes="(max-width: 768px) 100vw, 256px"
                   priority
                 />
                 {/* Decorative elements */}
