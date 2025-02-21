@@ -1,16 +1,16 @@
 {
   "personalInfo": {
-    "name": "John Doe",
+    "name": "Aklima Shampa",
     "title": "Frontend React Developer",
     "description": "Passionate frontend developer with a keen eye for creating beautiful and responsive web applications. I specialize in React.js and modern web technologies.",
-    "location": "New York, USA",
-    "email": "john.doe@example.com",
-    "github": "https://github.com/johndoe",
-    "linkedin": "https://linkedin.com/in/johndoe"
+    "location": "Chattogram,Bangladesh",
+    "email": "shampa.iub@gmail.com",
+    "github": "https://github.com/Shampa-Aklima",
+    "linkedin": "https://www.linkedin.com/in/shampa-aklima-677174229/"
   },
   "navigation": {
     "logo": {
-      "text": "John Doe",
+      "text": "Aklima Shampa",
       "image": "/logo.png",
       "showImage": false
     }
@@ -23,9 +23,14 @@
     "image": "/myphoto.jpg",
     "education": [
       {
-        "degree": "Bachelor of Science in Computer Science",
-        "school": "State University",
-        "year": "2023"
+        "degree": "Masters of Business Administration (MBA)",
+        "school": "Jahangirnagar University,Savar,Dhaka"
+        
+      },
+      {
+        "degree": "Bachelor of Science in ETE",
+        "school": "Independent University Bangladesh"
+        
       }
     ],
     "interests": [
@@ -64,7 +69,6 @@
     ],
     "languages": [
       "English",
-      "French",
       "Bangla"
     ]
   },

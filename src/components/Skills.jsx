@@ -42,7 +42,7 @@ const Skills = ({ skills }) => {
   return (
     <section className="py-20 bg-gray-50 dark:bg-gray-900">
       <div className="container mx-auto px-4">
-        <motion.div
+        <motion.div 
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
@@ -53,7 +53,7 @@ const Skills = ({ skills }) => {
           </h2>
           <div className={`grid grid-cols-1 ${gridColsClass} gap-6 max-w-6xl mx-auto`}>
             {skillCategories.map(([category, skillList]) => (
-              <SkillCard
+              <SkillCard 
                 key={category}
                 title={category}
                 skills={skillList}
